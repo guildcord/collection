@@ -1,7 +1,7 @@
 {
   "name": "@guildcord/collection",
   "description": "A package with extended JavaScript Map as utility.",
-  "version": "0.0.2",
+  "version": "0.0.1",
   "main": "build/index.js",
   "types": "types/index.d.ts",
   "scripts": {
