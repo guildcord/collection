@@ -1,5 +1,5 @@
 # Guildcord Collection
-[![License](https://img.shields.io/github/license/guildcord/collection)](https://github.com/guildcord/collection/LICENSE.md)
+[![License](https://img.shields.io/github/license/guildcord/collection)](https://github.com/guildcord/collection/LICENSE)
 [![NPM](https://img.shields.io/npm/v/@guildcord/collection?color=blue&logo=npm)](https://www.npmjs.com/package/@guildcord/collection)
 
 A package with extended JavaScript Map as utility.
